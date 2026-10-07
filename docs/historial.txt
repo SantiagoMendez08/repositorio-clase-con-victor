@@ -1,0 +1,306 @@
+    1  git config --global
+    2  git config --global
+    3  git config --global user.email
+    4  git config --global user.email
+    5  git config --global user.email "santiagoop719@gmaill.com"
+    6  git config --global user.email 
+    7  git config --global user.email "santiagoop719@gmail.com
+    8  clear
+    9  git config --global user.email "santiagoop719@gmail.com"
+   10  git config --global user.email
+   11  git config --global user.name "santiago_mendez"
+   12  git config --global user.name
+   13  git config --global --list
+   14  git config --global color.ui true
+   15  cd santiago_zapata
+   16  ls
+   17  cd Desktop/
+   18  cd trimestre_2/
+   19  cd santiago_zapata/
+   20  cd cancion.txt 
+   21  cd cancion.txt/
+   22  ls
+   23  ls
+   24  cd Desktop/
+   25  cd users/
+   26  ls
+   27  cd trimestre_2/
+   28  ls
+   29  cd santiago_zapata/
+   30  ls
+   31  cd cancion.txt.txt 
+   32  cd cancion.txt.txt/
+   33  mkdir carpeta_1
+   34  ls
+   35  rmdir carpeta_1/
+   36  ls
+   37  touch soy_peor
+   38  ls
+   39  mkdir -p artista/bad_bunny
+   40  cd artista
+   41  ls
+   42  cd ..
+   43  ls
+   44  rmdir artista/bad_bunny
+   45  ls
+   46  cd artista/
+   47  ls
+   48  ls
+   49  cd ..
+   50  ls
+   51  mkdir artista/bad_bunny
+   52  mv soy_peor artista/bad_bunny/
+   53  mv soy_peor artista/bad_bunny
+   54  ls
+   55  ls
+   56  mv soy_peor/ artista/bad_bunny
+   57  ls
+   58  cd Desktop/
+   59  ls
+   60  cd trimestre_2/
+   61  ls
+   62  cd santiago_zapata/
+   63  ls
+   64  mv soy_peor/ artista/bad_bunny/
+   65  cd ..
+   66  ls
+   67  santiago_zapata/
+   68  cd santiago_zapata/
+   69  ls
+   70  cd artista/
+   71  mv soy_peor.txt artista/bad_bunny
+   72  mv soy_peor.txt artista/bad_bunny
+   73  ls
+   74  cd Desktop/
+   75  cd trimestre_2/
+   76  cd santiago_zapata/
+   77  cd artista/
+   78  mv soy_peor.txt bad_bunny/
+   79  cd Desktop/
+   80  cd trimestre_2/
+   81  cd santiago_zapata/
+   82  cd album_cantantes/
+   83  mkdir bonus
+   84  mv chococono.txt/bonus
+   85  cd Desktop/
+   86  cd trimestre_2/
+   87  cd santiago_zapata/
+   88  cd album_cantantes/
+   89  cd krisR/
+   90  mv chocono.txt bonus/
+   91  mv chococono.txt bonus/
+   92  ls
+   93  mv chococono.txt album_cantantes/
+   94  clear
+   95  cd Desktop/
+   96  cd trimestre_2/
+   97  cd santiago_zapata/
+   98  mkdir album_krisR
+   99  clear
+  100  mkdir album_musical
+  101  cd album_musical
+  102  mkdir shakira
+  103  touch Shakira/Hips_Dont_Lie.txt
+  104  touch Shakira/Waka_Waka.txt
+  105  mkdir shakira/bonus
+  106  mv Shakira/Antologia.txt Shakira/Bonus/
+  107  mv Shakira/waka.waka.txt shakira/bonus
+  108  cd shakira/
+  109   mv Shakira/waka.waka.txt shakira/bonus
+  110  clear
+  111  mkdir Album_Musical
+  112  clear
+  113  cd Desktop/
+  114  cd trimestre_2/
+  115  cd santiago_zapata/
+  116  mkdir Album_Musical
+  117  cd Album_Musical/
+  118  mkdir shakira
+  119  touch Shakira/Waka_Waka.txt
+  120  cd Desktop/
+  121  cd trimestre_2/
+  122  cd santiago_zapata/
+  123  cd Album_Musical/
+  124  touch Shakira/Waka_Waka.txt
+  125  touch Shakira/Antologia.txt
+  126  ls
+  127  mkdir shakira/bonus
+  128  mv shakira/Antologia.txt shakira/bonus/
+  129  ls
+  130  clear
+  131  mv Shakira/Waka_Waka.txt Shakira/La_Bicicleta.txt
+  132  ls
+  133  mkdir artistas
+  134  mv shakira artistas/
+  135  ls
+  136  ls -R
+  137  mv Artistas/Shakira/Bonus/Antologia.txt Artistas/Shakira/
+  138  rmdir Artistas/Shakira/Bonus
+  139  ls -R
+  140  clear
+  141  mkdir -p Coleccion/Pop/Album1
+  142  touch Coleccion/Pop/Album1/Cancion.txt
+  143  ls -R
+  144  git init
+  145  git status
+  146  git add .
+  147  git ..
+  148  ls
+  149  git ..
+  150  ls
+  151  cd ..
+  152  git status
+  153  ls
+  154  cd Album_Musical/
+  155  git status
+  156  git status
+  157  git user.name
+  158  cd Desktop/
+  159  ls
+  160  cd trimestre_2/
+  161  ls
+  162  cd santiago_zapata/
+  163  ls
+  164  cd santiago_zapata/
+  165  cd Desktop/
+  166  cd trimestre_2/
+  167  cd santiago_zapata/
+  168  mkdir mi_proyecto
+  169  cd mi_proyecto/
+  170  git init
+  171  echo "<h1>Bienvenidos</h1>" > index.html
+  172  echo "/* Estilos principales */" > style.css
+  173  ls
+  174  git status
+  175  git add index.html
+  176  git status
+  177  git commit -m "feat(core): añadir index.html base"
+  178  echo "<h1>Bienvenidos a mi Súper Proyecto</h1>" > index.html
+  179  git diff
+  180  clear
+  181  git commit -am "fix(core): actualizar titulo principal"
+  182  git status
+  183  cd Desktop/
+  184  cd trimestre_2/
+  185  cd santiago_zapata/
+  186  cd Album_Musical/
+  187  git branch
+  188  git switch santiago 
+  189  git switch -c jhan
+  190  git switch master
+  191  gti branch
+  192  git branch
+  193  git git branch -d jhan
+  194  git branch -d jhan
+  195  git branch -D jhan
+  196  git branch -m rama -el santi
+  197  clear
+  198  git branch -m santi
+  199  git branch
+  200  cd Desktop/
+  201  cdclear
+  202  clear
+  203  cd trimestre_2/
+  204  cd santiago_zapata/
+  205  cd mi_proyecto/
+  206  git switch -c feature-contacto
+  207  cd feature-contacto
+  208  clear
+  209  Cd Desktop/
+  210  cd Desktop/
+  211  cd trimestre_2/
+  212  cd santiago_zapata/
+  213  cd Album_Musical/
+  214  git branch
+  215  git switch master
+  216  git --oneline
+  217  git status
+  218  git log --oneline
+  219  git switch feature-contacto 
+  220  git switch santiago 
+  221  cd ..
+  222  cd mi_proyecto/
+  223  git log --oneline
+  224  cd Desktop/
+  225  cd trimestre_2/
+  226  cd santiago_zapata/
+  227  cd Album_Musical/
+  228  git commit-m "subiendo foticos"
+  229  git commit -m "subiendo foticos"
+  230  git remote add origin https://github.com/SantiagoMendez08/album_musical.git
+  231  git branch -M main
+  232  git push -u origin main
+  233  git remote add origin https://github.com/SantiagoMendez08/album_musical.git
+  234  clear
+  235  git remote add origin https://github.com/SantiagoMendez08/album_musical.git
+  236  git push origin main --force
+  237  git remote -v
+  238  cd Desktop/
+  239  mkdir proyecto
+  240  cd proyecto
+  241  git init
+  242  mkdir carpeta
+  243  cd carpeta/
+  244  git init
+  245  cd ..
+  246  git init
+  247  ls
+  248  git status
+  249  git add .
+  250  git commit -m "subiendo carpeta "carpeta" en la cual hay 5 archivos"
+  251  git status
+  252  git init
+  253  git init
+  254  git status
+  255  git add .
+  256  cd ..
+  257  cd proyecto/
+  258  git add .gitignore 
+  259  git status
+  260  cd carpeta/
+  261  cd ..
+  262  git add .
+  263  git commit -m "subiendo carpeta "carpeta" en la cual hay 5 archivos"
+  264  git status
+  265  git remote add origin https://github.com/SantiagoMendez08/nuevo-repositorio.git
+  266  git branch -M main
+  267  git push -u origin main
+  268  git push origin main --force
+  269  cd Desktop/
+  270  cd trimestre_2/
+  271  cd santiago_zapata/
+  272  cd ejemplo_cancion/
+  273  git init
+  274  git remote add origin https://github.com/sanye587-cr7/practica-canci-n.git
+  275  git branch -m master main
+  276  git pull origin main
+  277  git switch -c santimendez
+  278  git pull origin main
+  279  git add .
+  280  git commit -m "santimendez"
+  281  git merge origin main
+  282  git push origin main
+  283  git merge --continue
+  284  git push origin main
+  285  git switch main
+  286  git status
+  287  git add .
+  288  git commit -m "santimendez"
+  289  git switch main 
+  290  git merge santimendez 
+  291  git add .
+  292  git commit "santimendez2"
+  293  git commit -m "santimendez2"
+  294  git push origin main
+  295  git pull
+  296  git pull origin main
+  297  git fetch origin
+  298  git reset --hard origin/main
+  299  git pull origin main
+  300  git pull origin main
+  301  cd victor\ ibarbo/
+  302  cd citas-barber/
+  303  ls -R > docs/estructura.txt
+  304  history > docs/historial.txt
+  305  ls -R > docs/historial.txt 
+  306  history > docs/historial.txt
